@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-06T14:20:14 IST" name="Suite" finished-at="2023-01-06T14:20:14 IST" duration-ms="43">
+    <groups>
+    </groups>
+    <test started-at="2023-01-06T14:20:14 IST" name="Test" finished-at="2023-01-06T14:20:14 IST" duration-ms="43">
+      <class name="mavanCMDPractice.Mavandemo2ndTest">
+        <test-method signature="demo1test()[pri:0, instance:mavanCMDPractice.Mavandemo2ndTest@3f6b0be5]" started-at="2023-01-06T14:20:14 IST" name="demo1test" finished-at="2023-01-06T14:20:14 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1test -->
+        <test-method signature="demo2test()[pri:0, instance:mavanCMDPractice.Mavandemo2ndTest@3f6b0be5]" started-at="2023-01-06T14:20:14 IST" name="demo2test" finished-at="2023-01-06T14:20:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2test -->
+      </class> <!-- mavanCMDPractice.Mavandemo2ndTest -->
+      <class name="mavanCMDPractice.Mavandemo3rdTest">
+        <test-method signature="demo1test()[pri:0, instance:mavanCMDPractice.Mavandemo3rdTest@e15b7e8]" started-at="2023-01-06T14:20:14 IST" name="demo1test" finished-at="2023-01-06T14:20:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1test -->
+        <test-method signature="demo2test()[pri:0, instance:mavanCMDPractice.Mavandemo3rdTest@e15b7e8]" started-at="2023-01-06T14:20:14 IST" name="demo2test" finished-at="2023-01-06T14:20:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2test -->
+      </class> <!-- mavanCMDPractice.Mavandemo3rdTest -->
+      <class name="mavanCMDPractice.Mavandemo1Test">
+        <test-method signature="demo1test()[pri:0, instance:mavanCMDPractice.Mavandemo1Test@209da20d]" started-at="2023-01-06T14:20:14 IST" name="demo1test" finished-at="2023-01-06T14:20:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1test -->
+        <test-method signature="demo2test()[pri:0, instance:mavanCMDPractice.Mavandemo1Test@209da20d]" started-at="2023-01-06T14:20:14 IST" name="demo2test" finished-at="2023-01-06T14:20:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2test -->
+      </class> <!-- mavanCMDPractice.Mavandemo1Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
